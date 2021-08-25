@@ -1,3 +1,4 @@
+# Gaussian Naive Bayes in Python
 ## About The Project
 This is an implementation of the Gaussian Naive Bayes classifier in Jupyter notebook along with all the probability background necessary. It was done as as project in Cégép.
 
